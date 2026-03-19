@@ -3,6 +3,17 @@ name: agent-burner
 version: 0.2.0
 description: Disposable email API. Use when you need a temporary email address -- receiving mail, reading contents, extracting URLs. Triggers include "create a temp email", "I need a burner email", "disposable inbox", or any task requiring a throwaway email address.
 homepage: https://agentburner.com
+tags:
+  - email
+  - disposable
+  - burner
+  - temp-mail
+  - verification
+  - otp
+  - inbox
+  - api
+  - no-auth
+  - zero-config
 metadata:
   author: Jose Maldonado
   category: email
